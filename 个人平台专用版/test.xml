@@ -1,0 +1,42 @@
+<root>
+	<schedule id="1" status="1">
+		<title>测试</title>
+		<content>测试内容</content>
+		<starttime>
+			<year>2016</year>
+			<month>11</month>
+			<day>12</day>
+			<hour>20</hour>
+			<minute>29</minute>
+			<second>00</second>
+		</starttime>
+		<endtime>
+			<year>2016</year>
+			<month>11</month>
+			<day>12</day>
+			<hour>20</hour>
+			<minute>40</minute>
+			<second>00</second>
+		</endtime>
+	</schedule>
+  <schedule id="2" status="1">
+    <title>测试</title>
+    <content>测试内容</content>
+    <starttime>
+      <year>2016</year>
+      <month>11</month>
+      <day>13</day>
+      <hour>18</hour>
+      <minute>20</minute>
+      <second>00</second>
+    </starttime>
+    <endtime>
+      <year>2016</year>
+      <month>11</month>
+      <day>13</day>
+      <hour>18</hour>
+      <minute>40</minute>
+      <second>00</second>
+    </endtime>
+  </schedule>
+</root>

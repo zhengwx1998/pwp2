@@ -16,5 +16,17 @@ namespace 个人平台专用版
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            ControlCenter cc = new ControlCenter();
+            cc.Show();
+            this.Hide();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
